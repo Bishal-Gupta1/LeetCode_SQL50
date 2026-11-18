@@ -1,8 +1,10 @@
 # LeetCode SQL 50 Solutions
 
-\<p align="center">   \<img src="[https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)" width="100" height="100"> \</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100">
+</p>
 
-\<h1 align="center">LeetCode SQL 50 Solutions\</h1>
+<h1 align="center">LeetCode SQL 50 Solutions</h1>
 
 *50 SQL challenges covering basic to intermediate SQL concepts.*
 
