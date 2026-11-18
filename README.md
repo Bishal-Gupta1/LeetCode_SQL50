@@ -99,31 +99,7 @@
 
 ---
 
-## Progress
-
-| Difficulty | Total Problems |
-| ---------- | -------------- |
-| 🟢 Easy    | 32             |
-| 🟡 Medium  | 17             |
-| 🔴 Hard    | 1              |
-| **Total**  | **50**         |
-
-## Topics Covered
-
-- SELECT and WHERE
-- Filtering and Sorting
-- JOINs and Self JOINs
-- Aggregate Functions
-- GROUP BY and HAVING
-- Subqueries
-- Window Functions
-- String Functions
-- Date and Time Functions
-- Conditional Expressions
-- NULL Handling
 
 ## Resources
 
 - [LeetCode SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [LeetCode Database Problems](https://leetcode.com/problemset/database/)
