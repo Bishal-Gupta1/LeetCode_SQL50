@@ -77,7 +77,7 @@
 
 | #    | Problem                                      | Difficulty | Solution                                                                                                                      |
 | ---- | -------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1978 | Employees Whose Manager Left the Company     | Easy       | [Employees Whose Manager Left the Company.sql](./Subqueries/Employees%20Whose%20Manager%20Left%20the%20Company.sql)           |
+| 1978 | Employees Whose Manager Left the Company     | Easy       | [Employees Whose Manager Left the Company.sql](./Subqueries/%20Employees%20Whose%20Manager%20Left%20the%20Company.sql)           |
 | 626  | Exchange Seats                               | Medium     | [Exchange Seats.sql](./Subqueries/Exchange%20Seats.sql)                                                                       |
 | 1341 | Movie Rating                                 | Medium     | [Movie Rating.sql](./Subqueries/Movie%20Rating.sql)                                                                           |
 | 1321 | Restaurant Growth                            | Medium     | [Restaurant Growth.sql](./Subqueries/Restaurant%20Growth.sql)                                                                 |
